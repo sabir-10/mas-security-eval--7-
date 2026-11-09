@@ -1,6 +1,5 @@
-# A Framework for Evaluating Security Defenses in Multi-Agent AI Systems
-
-Master's project, Afnan Sabir Mohammed.
+# A Framework for Evaluating Security Defenses in Multi-Agent AI S
+# 244 Project, Afnan Sabir Mohammed.
 
 A small "AI office" of four agents (Researcher, Analyst, Writer, Emailer) does a
 real task: review vendor documents, save a report, email a summary. Attacks are
